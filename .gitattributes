@@ -1,0 +1,14 @@
+Dodging[[:space:]]Excalibur_mapping.txt filter=lfs diff=lfs merge=lfs -text
+GAME.sln filter=lfs diff=lfs merge=lfs -text
+ProjectSettings filter=lfs diff=lfs merge=lfs -text
+Assembly-CSharp.csproj filter=lfs diff=lfs merge=lfs -text
+Desert[[:space:]]Drone.userprefs filter=lfs diff=lfs merge=lfs -text
+Library filter=lfs diff=lfs merge=lfs -text
+UWP filter=lfs diff=lfs merge=lfs -text
+Assets filter=lfs diff=lfs merge=lfs -text
+Desert[[:space:]]Drone.sln filter=lfs diff=lfs merge=lfs -text
+Logs filter=lfs diff=lfs merge=lfs -text
+DE_mapping.txt filter=lfs diff=lfs merge=lfs -text
+Dodging[[:space:]]Excalibur.apk filter=lfs diff=lfs merge=lfs -text
+obj filter=lfs diff=lfs merge=lfs -text
+Packages filter=lfs diff=lfs merge=lfs -text
